@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sunil\Downloads\oct_03\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e197a26a2e457a5378ec55f377ebc225bc386e6f">
+        <dex dex="C:\Users\sunil\Downloads\oct_03\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2667a19dce13a1cecf0cc1b76647caf3ad91bde9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sunil\Downloads\oct_03\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\sunil\Downloads\oct_03\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7c6c842796e591fce301d9cc87f3a61bcd1875a5\classes.dex" />
+    </item>
+
+</items>

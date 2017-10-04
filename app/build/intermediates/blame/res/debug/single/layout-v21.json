@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

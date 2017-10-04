@@ -1,0 +1,550 @@
+[
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veg9.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\veg9.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_banana.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_banana.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cloud.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\cloud.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apple.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\apple.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_animal9.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_animal9.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animal9.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\animal9.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_veg6.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_veg6.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\applerope.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\applerope.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_score.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bg_score.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bird2.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bird2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_1.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bg_1.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_veg7.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_veg7.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bird3.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\bird3.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animal8.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\animal8.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veg8.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\veg8.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bird1.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bird1.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\berry.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\berry.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_watermelon.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_watermelon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bird3.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bird3.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_orange.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_mango.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_mango.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\90db27d2aa9bd80ea3f991ae513bf0f053ee4278\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animal7.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\animal7.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_animal8.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_animal8.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bird2_clicked.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bird2_clicked.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bird1_clicked.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bird1_clicked.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.jpg",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_berry.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_berry.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veg6.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\veg6.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bird1.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\bird1.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cherry.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\cherry.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_veg9.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_veg9.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bananarope.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\bananarope.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_veg3.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_veg3.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\strawberry.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\strawberry.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_veg4.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_veg4.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\90db27d2aa9bd80ea3f991ae513bf0f053ee4278\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wave_repeating_bg.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\wave_repeating_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_apple.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_apple.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veg5.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\veg5.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\highscore.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\highscore.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\90db27d2aa9bd80ea3f991ae513bf0f053ee4278\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sand_clicked.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_sand_clicked.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_1_clicked.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bg_1_clicked.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bonus.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\bonus.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_animal7.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_animal7.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_animal1.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_animal1.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_animal4.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_animal4.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_burger.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_burger.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animal6.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\animal6.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animal3.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\animal3.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veg3.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\veg3.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\watermelon.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\watermelon.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\banana.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\banana.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animal2.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\animal2.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_veg1.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_veg1.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\burger.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\burger.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veg2.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\veg2.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_sand.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_sand.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_guava.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_guava.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_animal3.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_animal3.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lemon.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\lemon.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bird3_clicked.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bird3_clicked.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_animal5.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_animal5.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animal4.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\animal4.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_animal2.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_animal2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mango.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\mango.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guava.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\guava.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\90db27d2aa9bd80ea3f991ae513bf0f053ee4278\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ropepear.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\ropepear.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\90db27d2aa9bd80ea3f991ae513bf0f053ee4278\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_strawberry.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_strawberry.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pineapple.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\pineapple.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cherry.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_cherry.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_time.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bg_time.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_bg.jpg",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\new_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animal5.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\animal5.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\animal1.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\animal1.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_animal6.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_animal6.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sand.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\sand.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_veg2.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_veg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_veg5.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_veg5.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_burger_clicked.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_burger_clicked.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bonus.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bonus.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_veg8.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_veg8.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veg1.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\veg1.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bird2.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\bird2.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veg4.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\veg4.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\start.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\veg7.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\veg7.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\score.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\score.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\orange.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_lemon.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_lemon.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_bg_2.png",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_bg_2.png"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\sunil\\.android\\build-cache\\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pineapple.xml",
+        "source": "C:\\Users\\sunil\\Downloads\\oct_03\\app\\src\\main\\res\\drawable\\btn_pineapple.xml"
+    }
+]

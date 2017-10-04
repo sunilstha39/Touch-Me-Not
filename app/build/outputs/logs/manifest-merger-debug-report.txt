@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sunil\.android\build-cache\1d805a4e1334e23024eb7d1480ebd32a1b6b08ee\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\sunil\.android\build-cache\90db27d2aa9bd80ea3f991ae513bf0f053ee4278\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\sunil\.android\build-cache\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\sunil\.android\build-cache\b381dfb74456b233001421c8e3ba55a2f40f5791\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\sunil\.android\build-cache\80b5308edc14c2991192255ca61d042fd2b63615\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\sunil\.android\build-cache\dfd8dafe384a4a6f14c216d4f60a2a3cd7951b13\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\sunil\.android\build-cache\3e8cddbcdd5e2865d6e00f965ae3f8696cb31f1f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\sunil\.android\build-cache\d05fd6d5b2b89cf4e5cc557f0e3b72ccfaa091b6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\sunil\.android\build-cache\31908ab0eb9149e85151cd1df2141a35a5492fd8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\sunil\.android\build-cache\7f4397b08c0de47f9d19a793617c3c2fce48a427\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\sunil\.android\build-cache\4a89e1cf66b905b644d661b60d96b9948871f9fc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\sunil\.android\build-cache\9eeda1474f295ce90c6e81185dd70e040fda646d\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.prabh.myapp.Level1Activity
+ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:12:19-49
+activity#com.example.prabh.myapp.HomeActivity
+ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:13:9-84
+	android:noHistory
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:13:48-72
+	android:name
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:13:19-47
+activity#com.example.prabh.myapp.Level2Activity
+ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:14:19-49
+activity#com.example.prabh.myapp.Splash
+ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:15:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.prabh.myapp.Level3Activity
+ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml:22:19-49
+uses-sdk
+INJECTED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\sunil\.android\build-cache\1d805a4e1334e23024eb7d1480ebd32a1b6b08ee\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\sunil\.android\build-cache\90db27d2aa9bd80ea3f991ae513bf0f053ee4278\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\sunil\.android\build-cache\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\sunil\.android\build-cache\b381dfb74456b233001421c8e3ba55a2f40f5791\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\sunil\.android\build-cache\80b5308edc14c2991192255ca61d042fd2b63615\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\sunil\.android\build-cache\4ce8352ed549d6cc3094e6b9f96c0597cd1e5a07\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\sunil\.android\build-cache\dfd8dafe384a4a6f14c216d4f60a2a3cd7951b13\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\sunil\.android\build-cache\3e8cddbcdd5e2865d6e00f965ae3f8696cb31f1f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\sunil\.android\build-cache\d05fd6d5b2b89cf4e5cc557f0e3b72ccfaa091b6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\sunil\.android\build-cache\31908ab0eb9149e85151cd1df2141a35a5492fd8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\sunil\.android\build-cache\7f4397b08c0de47f9d19a793617c3c2fce48a427\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\sunil\.android\build-cache\4a89e1cf66b905b644d661b60d96b9948871f9fc\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\sunil\.android\build-cache\9eeda1474f295ce90c6e81185dd70e040fda646d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.daimajia.easing:library:2.0] C:\Users\sunil\.android\build-cache\5b33c4c581859a849dc7f519a823e344f426bf7c\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.daimajia.androidanimations:library:2.3] C:\Users\sunil\.android\build-cache\5d922cc433bc57c8518e22f2e52cd87ca1724f51\output\AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\sunil\.android\build-cache\90db27d2aa9bd80ea3f991ae513bf0f053ee4278\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\sunil\Downloads\oct_03\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\sunil\.android\build-cache\90db27d2aa9bd80ea3f991ae513bf0f053ee4278\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\sunil\.android\build-cache\4b5a0e9ef8fd28e7437fcfb4257edda63bcb8c34\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\sunil\.android\build-cache\b381dfb74456b233001421c8e3ba55a2f40f5791\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\sunil\.android\build-cache\80b5308edc14c2991192255ca61d042fd2b63615\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\sunil\.android\build-cache\4ce8352ed549d6cc3094e6b9f96c0597cd1e5a07\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\sunil\.android\build-cache\dfd8dafe384a4a6f14c216d4f60a2a3cd7951b13\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\sunil\.android\build-cache\3e8cddbcdd5e2865d6e00f965ae3f8696cb31f1f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\sunil\.android\build-cache\d05fd6d5b2b89cf4e5cc557f0e3b72ccfaa091b6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\sunil\.android\build-cache\31908ab0eb9149e85151cd1df2141a35a5492fd8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\sunil\.android\build-cache\7f4397b08c0de47f9d19a793617c3c2fce48a427\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\sunil\.android\build-cache\4a89e1cf66b905b644d661b60d96b9948871f9fc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\sunil\.android\build-cache\9eeda1474f295ce90c6e81185dd70e040fda646d\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\sunil\.android\build-cache\90db27d2aa9bd80ea3f991ae513bf0f053ee4278\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\sunil\.android\build-cache\90db27d2aa9bd80ea3f991ae513bf0f053ee4278\output\AndroidManifest.xml:26:9-47
